@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HTECH/static/css/main.602f231f.chunk.css",
+    "main.js": "/HTECH/static/js/main.5dc1ffa4.chunk.js",
+    "main.js.map": "/HTECH/static/js/main.5dc1ffa4.chunk.js.map",
+    "runtime-main.js": "/HTECH/static/js/runtime-main.cadb32fb.js",
+    "runtime-main.js.map": "/HTECH/static/js/runtime-main.cadb32fb.js.map",
+    "static/js/2.ebc25b06.chunk.js": "/HTECH/static/js/2.ebc25b06.chunk.js",
+    "static/js/2.ebc25b06.chunk.js.map": "/HTECH/static/js/2.ebc25b06.chunk.js.map",
+    "static/js/3.6d28b4e1.chunk.js": "/HTECH/static/js/3.6d28b4e1.chunk.js",
+    "static/js/3.6d28b4e1.chunk.js.map": "/HTECH/static/js/3.6d28b4e1.chunk.js.map",
+    "index.html": "/HTECH/index.html",
+    "static/css/main.602f231f.chunk.css.map": "/HTECH/static/css/main.602f231f.chunk.css.map",
+    "static/js/2.ebc25b06.chunk.js.LICENSE.txt": "/HTECH/static/js/2.ebc25b06.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/HTECH/static/media/img-8.fabdf94d.jpg",
+    "static/media/Herosection.css": "/HTECH/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cadb32fb.js",
+    "static/js/2.ebc25b06.chunk.js",
+    "static/css/main.602f231f.chunk.css",
+    "static/js/main.5dc1ffa4.chunk.js"
+  ]
+}
